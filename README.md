@@ -19,8 +19,8 @@
 
 ### Online Judge 💻
 
-* BOJ: [Kinetic27](http://icpc.me/netsus)
-  * solvedac: [Kinetic27](https://solved.ac/profile/netsus)
+* BOJ: [netsus](http://icpc.me/netsus)
+  * solvedac: [netsus](https://solved.ac/profile/netsus)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=netsus)](https://solved.ac/netsus)
 
