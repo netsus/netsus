@@ -24,7 +24,7 @@
 <span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/></span><br/>
 - Deployment : <span><img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Nvaer Cloud-03C75A?style=flat&logo=naver&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat&logo=naver&logoColor=white"/></span><br/>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 
