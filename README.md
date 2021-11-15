@@ -9,7 +9,7 @@
 
 # ▎Primary Tech Stacks
 - Server : <span><img src="https://img.shields.io/badge/Linux-F1B70F?style=flat&logo=linux&logoColor=white"/></span>
-- <span><img src="https://img.shields.io/badge/Docker-23B2E4?style=flat&logo=docker&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Docker-23B2E4?style=flat&logo=docker&logoColor=white"/></span><br/>
 - Back-end : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Pandas-120751?style=flat&logo=pandas&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></span>
