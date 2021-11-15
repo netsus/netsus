@@ -9,9 +9,10 @@
 
 # ▎Primary Tech Stacks
 - Back-end : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Pandas-120751?style=flat&logo=pandas&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MariaDB-336791?style=flat&logo=MariaDB&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/MariaDB-003343?style=flat&logo=MariaDB&logoColor=white"/></span><br/>
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
