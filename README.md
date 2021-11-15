@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=netsus&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)    ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=netsus&layout=compact&theme=dracula)
 
 # ▎Primary Tech Stacks
-- Server : <span><img src="https://img.shields.io/badge/Linux-F1B70F?style=flat&logo=linux&logoColor=white"/></span>
+- Server : <span><img src="https://img.shields.io/badge/Linux-FED600?style=flat&logo=linux&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Docker-23B2E4?style=flat&logo=docker&logoColor=white"/></span><br/>
 - Back-end : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Pandas-120751?style=flat&logo=pandas&logoColor=white"/></span>
