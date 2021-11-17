@@ -40,3 +40,5 @@
 
 # ▎CWJ PortFolio
 - ### https://netsus.github.io/cwj_portfolio.github.io/
+
+<canvas id="isometric-contributions" width="1000" height="600" style="width: 100%;"></canvas>
