@@ -42,4 +42,4 @@
 - ### https://netsus.github.io/cwj_portfolio.github.io/
 
 # ▎Contribution 3D graph
-<span><img src="https://blog.kakaocdn.net/dn/rXdTH/btrlwIThcZf/34tZS9cNE2yUTyQC6iV2W1/img.png"/></span>
+<span><img src="https://blog.kakaocdn.net/dn/b5Ja8Q/btrlyiMQn9d/CZ4YFzRW8SlccNOs0Km6a1/img.png"/></span>
